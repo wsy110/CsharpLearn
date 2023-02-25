@@ -1,0 +1,17 @@
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp_Task.Delay.exe
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp_Task.Delay.deps.json
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp_Task.Delay.runtimeconfig.json
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp_Task.Delay.dll
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp_Task.Delay.pdb
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp_Task.Delay.csproj.AssemblyReference.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp_Task.Delay.csproj.GenerateResource.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp_Task.Delay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp_Task.Delay.AssemblyInfoInputs.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp_Task.Delay.AssemblyInfo.cs
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp_Task.Delay.csproj.CoreCompileInputs.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp_Task.Delay.dll
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp_Task.Delay.dll
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp_Task.Delay.pdb
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp_Task.Delay.genruntimeconfig.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp_Task.Delay.dll

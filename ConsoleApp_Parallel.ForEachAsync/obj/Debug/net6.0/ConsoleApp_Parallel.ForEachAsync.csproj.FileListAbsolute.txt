@@ -1,0 +1,15 @@
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\bin\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.exe
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\bin\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.deps.json
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\bin\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.runtimeconfig.json
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\bin\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.dll
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\bin\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.pdb
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\obj\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.csproj.AssemblyReference.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\obj\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\obj\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.AssemblyInfoInputs.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\obj\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.AssemblyInfo.cs
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\obj\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.csproj.CoreCompileInputs.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\obj\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.dll
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\obj\Debug\net6.0\refint\ConsoleApp_Parallel.ForEachAsync.dll
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\obj\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.pdb
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\obj\Debug\net6.0\ConsoleApp_Parallel.ForEachAsync.genruntimeconfig.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Parallel.ForEachAsync\obj\Debug\net6.0\ref\ConsoleApp_Parallel.ForEachAsync.dll

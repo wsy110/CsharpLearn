@@ -1,0 +1,15 @@
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\obj\Debug\net6.0\ConsoleApp_Task.Delay.csproj.AssemblyReference.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\obj\Debug\net6.0\ConsoleApp_Task.Delay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\obj\Debug\net6.0\ConsoleApp_Task.Delay.AssemblyInfoInputs.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\obj\Debug\net6.0\ConsoleApp_Task.Delay.AssemblyInfo.cs
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\obj\Debug\net6.0\ConsoleApp_Task.Delay.csproj.CoreCompileInputs.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\bin\Debug\net6.0\ConsoleApp_Task.Delay.exe
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\bin\Debug\net6.0\ConsoleApp_Task.Delay.deps.json
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\bin\Debug\net6.0\ConsoleApp_Task.Delay.runtimeconfig.json
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\bin\Debug\net6.0\ConsoleApp_Task.Delay.dll
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\bin\Debug\net6.0\ConsoleApp_Task.Delay.pdb
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\obj\Debug\net6.0\ConsoleApp_Task.Delay.dll
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\obj\Debug\net6.0\refint\ConsoleApp_Task.Delay.dll
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\obj\Debug\net6.0\ConsoleApp_Task.Delay.pdb
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\obj\Debug\net6.0\ConsoleApp_Task.Delay.genruntimeconfig.cache
+C:\Users\shiyuanwang\source\repos\CSharpLearn\ConsoleApp_Task.Delay\obj\Debug\net6.0\ref\ConsoleApp_Task.Delay.dll
