@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_Parallel.For", "ConsoleApp\ConsoleApp_Parallel.For.csproj", "{EA3F7978-6DC2-4DF4-A785-12D02B08D987}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_Parallel.For", "ConsoleApp\ConsoleApp_Parallel.For.csproj", "{EA3F7978-6DC2-4DF4-A785-12D02B08D987}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YieldReturn", "YieldReturn\YieldReturn.csproj", "{9F1BB09E-28AB-4CB7-9D2E-321133DC3840}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YieldReturn", "YieldReturn\YieldReturn.csproj", "{9F1BB09E-28AB-4CB7-9D2E-321133DC3840}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_Task.Delay", "WinFormsApp1\WinFormsApp_Task.Delay.csproj", "{C6F54B1F-83C9-4A29-B294-CD970C8D0280}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_Task.Delay", "WinFormsApp1\WinFormsApp_Task.Delay.csproj", "{C6F54B1F-83C9-4A29-B294-CD970C8D0280}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_Task.Delay", "ConsoleApp_Task.Delay\ConsoleApp_Task.Delay.csproj", "{0E3FB64B-A680-4083-8FF9-9A6EC4DEA346}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_Task.Delay", "ConsoleApp_Task.Delay\ConsoleApp_Task.Delay.csproj", "{0E3FB64B-A680-4083-8FF9-9A6EC4DEA346}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_Parallel.ForEachAsync", "ConsoleApp_Parallel.ForEachAsync\ConsoleApp_Parallel.ForEachAsync.csproj", "{866E8847-C71C-46C4-948B-62420AA97116}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_Parallel.ForEachAsync", "ConsoleApp_Parallel.ForEachAsync\ConsoleApp_Parallel.ForEachAsync.csproj", "{866E8847-C71C-46C4-948B-62420AA97116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_TestListLamda", "ConsoleApp_Test2\ConsoleApp_TestListLamda.csproj", "{3E34C60D-18DD-4A91-83DD-8FA8CA3275C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_TestExtend", "ConsoleApp_TestExtend\ConsoleApp_TestExtend.csproj", "{A1FDE56B-2300-4C9F-864C-136E53D73AC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{866E8847-C71C-46C4-948B-62420AA97116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{866E8847-C71C-46C4-948B-62420AA97116}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{866E8847-C71C-46C4-948B-62420AA97116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E34C60D-18DD-4A91-83DD-8FA8CA3275C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E34C60D-18DD-4A91-83DD-8FA8CA3275C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E34C60D-18DD-4A91-83DD-8FA8CA3275C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E34C60D-18DD-4A91-83DD-8FA8CA3275C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1FDE56B-2300-4C9F-864C-136E53D73AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FDE56B-2300-4C9F-864C-136E53D73AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FDE56B-2300-4C9F-864C-136E53D73AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FDE56B-2300-4C9F-864C-136E53D73AC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
